@@ -1,2 +1,3 @@
 # First-Time
-first time creating discord bot using python.
+first time creating! If someone from somewhere has some tips on improving this project, feel free to let me know... somewhow... idk how...
+
